@@ -1,0 +1,34 @@
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Release\ActuarialCalc.exe.config
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Release\ActuarialCalc.exe
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Release\ActuarialCalc.pdb
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Release\MySql.Data.dll
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ConnectionDetails.baml
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\MainWindow.baml
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ConnectionDetails.g.cs
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\MainWindow.g.cs
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\App.g.cs
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ActuarialCalc_MarkupCompile.cache
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ActuarialCalc.g.resources
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ActuarialCalc.Properties.Resources.resources
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ActuarialCalc.csproj.GenerateResource.Cache
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ActuarialCalc.exe
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Release\ActuarialCalc.pdb
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\bin\Release\ActuarialCalc.exe.config
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.exe
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.pdb
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.csprojResolveAssemblyReference.cache
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ConnectionDetails.baml
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\MainWindow.baml
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ConnectionDetails.g.cs
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\MainWindow.g.cs
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\App.g.cs
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc_MarkupCompile.cache
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.g.resources
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.Properties.Resources.resources
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.csproj.GenerateResource.Cache
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\bin\Release\ActuarialCalc.exe.manifest
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\bin\Release\ActuarialCalc.application
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\bin\Release\ActuarialCalc.exe
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\bin\Release\ActuarialCalc.pdb
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.exe.manifest
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Release\ActuarialCalc.application

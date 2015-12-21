@@ -1,0 +1,34 @@
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Debug\ActuarialCalc.exe.config
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Debug\ActuarialCalc.exe
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Debug\ActuarialCalc.pdb
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\MainWindow.baml
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\MainWindow.g.cs
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\App.g.cs
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc_MarkupCompile.cache
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.g.resources
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.exe
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.pdb
+c:\users\nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.csprojResolveAssemblyReference.cache
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Debug\MySql.Data.dll
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ConnectionDetails.baml
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ConnectionDetails.g.cs
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Debug\ActuarialCalc.exe.manifest
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\bin\Debug\ActuarialCalc.application
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.exe.manifest
+C:\Users\Nick\documents\visual studio 2012\Projects\ActuarialCalc\ActuarialCalc\obj\Debug\ActuarialCalc.application
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\bin\Debug\ActuarialCalc.exe.config
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ActuarialCalc.exe
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ActuarialCalc.pdb
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ActuarialCalc.csprojResolveAssemblyReference.cache
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ConnectionDetails.baml
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\MainWindow.baml
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ConnectionDetails.g.cs
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\MainWindow.g.cs
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\App.g.cs
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ActuarialCalc_MarkupCompile.cache
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ActuarialCalc.g.resources
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ActuarialCalc.Properties.Resources.resources
+C:\Users\N\Desktop\General-Projects\ActuarialCalc\obj\Debug\ActuarialCalc.csproj.GenerateResource.Cache
+C:\Users\N\Desktop\ActuarialCalc\bin\Debug\ActuarialCalc.exe.config
